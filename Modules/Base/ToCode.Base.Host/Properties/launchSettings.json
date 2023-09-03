@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ToCode.Base.Host": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Dev"
+      }
+    }
+  }
+}
